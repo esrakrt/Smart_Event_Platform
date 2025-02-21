@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AkıllıEtkinlik
+build_property.RootNamespace = AkıllıEtkinlik
+build_property.ProjectDir = C:\Users\ESRA\source\repos\AkıllıEtkinlik\AkıllıEtkinlik\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ESRA\source\repos\AkıllıEtkinlik\AkıllıEtkinlik
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/EtkinlikDetayAD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcRXRraW5saWtEZXRheUFELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/EtkinlikEkleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcRXRraW5saWtFa2xlbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/EtkinlikOnay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcRXRraW5saWtPbmF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/Geribildirim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcR2VyaWJpbGRpcmltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/KullanıcıYönetimi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcS3VsbGFuxLFjxLFZw7ZuZXRpbWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/Mesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcTWVzYWouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/AdminDashboard/Rapor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcUmFwb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Home/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/AlternatifEtkinlikler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxBbHRlcm5hdGlmRXRraW5saWtsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/Etkinlik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxFdGtpbmxpay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/EtkinlikDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxFdGtpbmxpa0RldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/EtkinlikKatılım.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxFdGtpbmxpa0thdMSxbMSxbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/Mesaj.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxNZXNhai5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/Profil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxQcm9maWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/SosyalSokakEn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxTb3N5YWxTb2tha0VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/UserDashboard/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckRhc2hib2FyZFxVc2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ESRA/source/repos/AkıllıEtkinlik/AkıllıEtkinlik/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0q8chlnxgl
